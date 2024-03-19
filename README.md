@@ -1,38 +1,10 @@
-# create-svelte
+# LEAIRN 
+Welcome to the official repository for the LEAIRN project website. LEAIRN is a flashcard application built using Flutter, with a focus on utilizing artificial intelligence to generate flashcard sets and implementing spaced repetition techniques for effective learning.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## About LEAIRN
+LEAIRN is a powerful tool for learners of all ages and backgrounds. By harnessing the capabilities of AI, LEAIRN automates the creation of flashcard sets, making the learning process more efficient and engaging. With the incorporation of spaced repetition, users can optimize their study sessions and improve long-term retention of the material.
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Features
+- **AI-generated Flashcards:** LEAIRN's website showcases the app's ability to generate customized flashcard sets using advanced AI algorithms.
+- **Spaced Repetition:** Visitors can learn about the benefits of spaced repetition and how LEAIRN implements this technique to enhance learning outcomes.
+- **Download and Installation:** Work In Progress
